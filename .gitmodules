@@ -4,3 +4,12 @@
 [submodule "Blinkit-Data-Analysis"]
 	path = Blinkit-Data-Analysis
 	url = git@github.com:Bhagyawanth1729/-Blinkit-Data-Analysis-Python.git
+[submodule "Insights-from-Failed-Orders"]
+	path = Insights-from-Failed-Orders
+	url = git@github.com:Bhagyawanth1729/Insights-from-Failed-Orders.git
+[submodule "Fraud-Detection-using-Machine-Learning-Full-Python-Data-Analyst-Project-94-Accuracy-"]
+	path = Fraud-Detection-using-Machine-Learning-Full-Python-Data-Analyst-Project-94-Accuracy-
+	url = git@github.com:Bhagyawanth1729/Fraud-Detection-using-Machine-Learning-Full-Python-Data-Analyst-Project-94-Accuracy-.git
+[submodule "Flipkart_Regional_Sales_Analysis"]
+	path = Flipkart_Regional_Sales_Analysis
+	url = git@github.com:Bhagyawanth1729/Flipkart_Regional_Sales_Analysis.git
