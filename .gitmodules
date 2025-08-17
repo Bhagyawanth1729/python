@@ -1,3 +1,6 @@
 [submodule "Sales-and-Inventory-Dashboard-using-Power-BI"]
 	path = Sales-and-Inventory-Dashboard-using-Power-BI
 	url = git@github.com:Bhagyawanth1729/Sales-and-Inventory-Dashboard-using-Power-BI.git
+[submodule "Blinkit-Data-Analysis"]
+	path = Blinkit-Data-Analysis
+	url = git@github.com:Bhagyawanth1729/-Blinkit-Data-Analysis-Python.git
