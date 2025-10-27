@@ -13,3 +13,6 @@
 [submodule "Flipkart_Regional_Sales_Analysis"]
 	path = Flipkart_Regional_Sales_Analysis
 	url = git@github.com:Bhagyawanth1729/Flipkart_Regional_Sales_Analysis.git
+[submodule "Smart_Amazon_Challenge"]
+	path = Smart_Amazon_Challenge
+	url = https://github.com/Bhagyawanth1729/Smart_Product_Pricing_Challenge.git

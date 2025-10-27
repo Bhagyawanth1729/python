@@ -1,1 +1,0 @@
-# Smart Product Pricing Challenge
