@@ -1,1 +1,1 @@
-# python
+# Smart Product Pricing Challenge
